@@ -7,3 +7,7 @@
 
 @tidchile
 @nicokittsteiner
+
+Pre Requisitos
+Orion Context Broker : https://github.com/telefonicaid/fiware-orion
+Arduino 1.6.4
